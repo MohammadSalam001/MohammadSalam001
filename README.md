@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My GitHub buddies!</h1>
 
-![Cybersecurity Banner](https://github.com/MohammadSalam001/MohammadSalam001/blob/main/omgitsdedsec.jpg)
+![Cybersecurity Banner](https://github.com/MohammadSalam001/Pictures/blob/main/omgitsdedsec.jpg)
 
 ---
 
@@ -47,7 +47,7 @@ I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **
 🌐 **Personal Blog** (Coming Soon!)
 
 ---
-![Cybersecurity Banner](https://github.com/MohammadSalam001/MohammadSalam001/blob/main/Wrench%2C%20Watch%20Dogs%202.gif)
+![Wrench](https://github.com/MohammadSalam001/Pictures/blob/main/Wrench%2C%20Watch%20Dogs%202.gif)
 
 **"When you’re smart, people try to find ways to make you dumb. To make you one of them."** - *Wrench*
 ## Thanks for visiting and Happy hacking! 
