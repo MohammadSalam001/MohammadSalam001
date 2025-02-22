@@ -43,5 +43,8 @@ I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **
 🌐 **Personal Blog** (Coming Soon!)
 
 ---
+![Cybersecurity Banner](https://github.com/MohammadSalam001/MohammadSalam001/blob/main/Wrench%2C%20Watch%20Dogs%202.gif)
 
-Thanks for visiting and Happy hacking! 
+**"When you’re smart, people try to find ways to make you dumb. To make you one of them."** - *Wrench*
+## Thanks for visiting and Happy hacking! 
+
