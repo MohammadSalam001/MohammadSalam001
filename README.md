@@ -1,4 +1,7 @@
-<h1 align="center">Welcome to My GitHub buddies!</h1>
+<h1 align="center">Welcome to My GitHub buddies!</h1> 
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MohammadSalam001/&title=Profile%20Views" alt="Profile Views">
+</p>
 
 ![Cybersecurity Banner](https://github.com/MohammadSalam001/Pictures/blob/main/omgitsdedsec.jpg)
 
@@ -20,8 +23,6 @@ I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **
 ---
 
 ### 💻 Technical Skills
-
-
 ![Tech Stack](https://img.shields.io/badge/Linux-Kali-informational?style=flat&logo=linux&color=blue) 
 ![Tech Stack](https://img.shields.io/badge/Windows-OS-informational?style=flat&logo=windows&color=blue)
 ![Tech Stack](https://img.shields.io/badge/Networking-TCP/IP-informational?style=flat&logo=cisco&color=blue)
@@ -47,8 +48,8 @@ I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **
 🌐 **Personal Blog** (Coming Soon!)
 
 ---
+
 ![Wrench](https://github.com/MohammadSalam001/Pictures/blob/main/Wrench%2C%20Watch%20Dogs%202.gif)
 
-**"When you’re smart, people try to find ways to make you dumb. To make you one of them."** - *Wrench*
-## Thanks for visiting and Happy hacking! 
-
+**"When you’re smart, people try to find ways to make you dumb. To make you one of them."** - *Wrench*  
+## Thanks for visiting and Happy hacking!
