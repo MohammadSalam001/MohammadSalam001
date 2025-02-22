@@ -1,6 +1,10 @@
+<h1 align="center">Welcome to My GitHub buddies!</h1>
+
 ![Cybersecurity Banner](https://github.com/MohammadSalam001/MohammadSalam001/blob/main/omgitsdedsec.jpg)
+
 ---
-## Welcome to My GitHub buddies!
+
+<h3 align="center">A passionate aspiring penetration tester </h3>
 
 I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **penetration testing, ethical hacking, and security research**. My goal is to become a **penetration tester**, helping organizations secure their systems by identifying vulnerabilities and strengthening defenses.
 
