@@ -1,7 +1,4 @@
 <h1 align="center">Welcome to My GitHub buddies!</h1> 
-<p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MohammadSalam001/&title=Profile%20Views" alt="Profile Views">
-</p>
 
 ![Cybersecurity Banner](https://github.com/MohammadSalam001/Pictures/blob/main/omgitsdedsec.jpg)
 
