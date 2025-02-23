@@ -48,5 +48,5 @@ I'm **Mohammad Salam**, a **4th year cybersecurity student** passionate about **
 
 ![Wrench](https://github.com/MohammadSalam001/Pictures/blob/main/Wrench%2C%20Watch%20Dogs%202.gif)
 
-**"When you’re smart, people try to find ways to make you dumb. To make you one of them."** - *Wrench*  
+*"When you’re smart, people try to find ways to make you dumb. To make you one of them."* - **Wrench**  
 ## Thanks for visiting and Happy hacking!
