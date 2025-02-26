@@ -2,7 +2,6 @@
 
 ![Cybersecurity Banner](https://github.com/MohammadSalam001/Pictures/blob/main/omgitsdedsec.jpg)
 
----
 
 <h3 align="center">A passionate aspiring penetration tester </h3>
 
