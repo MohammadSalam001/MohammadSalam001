@@ -45,8 +45,8 @@
 ## 🏆 Training Platforms
 
 <p align="center">
-  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/></a>
+  <a href="https://tryhackme.com/"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"height="45"/></a>
+  <a href="https://www.hackthebox.com/"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"height="45"/></a>
 </p>
 
 ## 📈 GitHub Stats
@@ -58,7 +58,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mms24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mms24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
 </p>
 
 <p align="center">Personal Blog Coming Soon!</p>
@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/MohammadSalam001/Pictures/blob/main/Wrench%2C%20Watch%20Dogs%202.gif" alt="Wrench" width="400"/>
+  <img src="https://github.com/MohammadSalam001/Pictures/blob/main/Wrench%2C%20Watch%20Dogs%202.gif" alt="Wrench" width="500"/>
 </p>
 
 <p align="center"><i>"When you're smart, people try to find ways to make you dumb. To make you one of them."</i> - <b>Wrench</b></p>
