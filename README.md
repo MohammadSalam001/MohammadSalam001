@@ -61,7 +61,6 @@
   <a href="https://www.linkedin.com/in/mms24/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/></a>
 </p>
 
-<p align="center">Personal Blog Coming Soon!</p>
 
 ---
 
