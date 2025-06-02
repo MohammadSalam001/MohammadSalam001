@@ -14,7 +14,7 @@
 - Mastering penetration testing methodologies & frameworks
 - Advancing vulnerability assessment & exploitation techniques
 - Competing in Capture The Flag (CTF) challenges
-- Preparing for CEH certification
+- Preparing for PJPT certification
 - Working toward OSCP certification
 
 ## 🔧 Technical Arsenal
