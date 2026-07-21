@@ -52,7 +52,7 @@ A cybersecurity graduate, passionate about penetration testing, ethical hacking,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSalam001&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadSalam-sec&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ## 🔗 Connect With Me
