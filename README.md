@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-4th year cybersecurity student passionate about penetration testing, ethical hacking, and security research. My goal is to become a professional penetration tester, helping organizations identify vulnerabilities and strengthen their defenses.
+A cybersecurity graduate, passionate about penetration testing, ethical hacking, and security analyst. My goal is to become a professional penetration tester or soc analyst, helping organizations identify vulnerabilities and strengthen their defenses.
 
 ## 🛡️ Current Focus
 
